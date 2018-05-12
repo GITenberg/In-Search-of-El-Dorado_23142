@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23142#In-Search-of-El-Dorado
 gutenberg_issued: '2007-10-21'
 gutenberg_type: Text
 identifiers:
